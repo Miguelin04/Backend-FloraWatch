@@ -1,0 +1,397 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 3609
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3660
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2081
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\accounts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2081
+"GET / HTTP/1.1" 200 2081
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2081
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3820
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\accounts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2081
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4206
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 19914
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+Not Found: /accounts/groups/
+"GET /accounts/groups/ HTTP/1.1" 404 3835
+Not Found: /accounts/groups/
+"GET /accounts/groups/ HTTP/1.1" 404 3835
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3820
+"GET /api/plants/species/ HTTP/1.1" 200 52
+"GET /api/accounts/profiles/ HTTP/1.1" 200 52
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 19914
+"GET /admin/accounts/useractivity/ HTTP/1.1" 200 20550
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/accounts/apikey/ HTTP/1.1" 200 20098
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/notification/ HTTP/1.1" 200 20431
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/userprofile/ HTTP/1.1" 200 22104
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/userprofile/add/ HTTP/1.1" 200 28738
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11973
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"POST /admin/accounts/userprofile/add/ HTTP/1.1" 200 29061
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/useractivity/ HTTP/1.1" 200 20550
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/userprofile/ HTTP/1.1" 200 22104
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/userprofile/add/ HTTP/1.1" 200 28738
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"POST /admin/accounts/userprofile/add/ HTTP/1.1" 200 29049
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/auth/user/add/ HTTP/1.1" 200 45740
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+"GET /static/admin/js/unusable_password_field.js HTTP/1.1" 200 1480
+"GET /static/admin/js/inlines.js HTTP/1.1" 200 15628
+"GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 537
+"POST /admin/auth/user/add/ HTTP/1.1" 200 46145
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"POST /admin/auth/user/add/ HTTP/1.1" 200 46061
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"POST /admin/auth/user/add/ HTTP/1.1" 302 0
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 62018
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15845
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"POST /admin/logout/ HTTP/1.1" 200 3590
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4206
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4416
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4416
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4416
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 20288
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /admin/accounts/userprofile/ HTTP/1.1" 200 22562
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"POST /admin/logout/ HTTP/1.1" 200 3590
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4206
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4416
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 20288
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 61769
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/auth/user/2/password/ HTTP/1.1" 200 19430
+"POST /admin/auth/user/2/password/ HTTP/1.1" 302 0
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 61916
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"POST /admin/logout/ HTTP/1.1" 200 3590
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4206
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4416
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4416
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4416
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 20638
+"GET /admin/auth/group/ HTTP/1.1" 200 18183
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/auth/user/ HTTP/1.1" 200 22339
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 61769
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 22542
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 61812
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+"POST /admin/logout/ HTTP/1.1" 200 3590
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4206
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4420
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4420
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 20988
+"GET /admin/auth/user/ HTTP/1.1" 200 23815
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\accounts\urls.py changed, reloading.
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /admin/auth/user/2/change/ HTTP/1.1" 200 61812
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+"GET /static/admin/js/inlines.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+"GET /admin/plants/plantspecies/ HTTP/1.1" 200 25286
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /admin/plants/floweringevent/ HTTP/1.1" 200 20687
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/plants/plantmonitor/ HTTP/1.1" 200 21226
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/predictions/trainingdataset/ HTTP/1.1" 200 22899
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/predictions/aimodel/ HTTP/1.1" 200 23923
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/predictions/modelperformancemetric/ HTTP/1.1" 200 20330
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\accounts\urls.py changed, reloading.
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\accounts\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /admin/logout/ HTTP/1.1" 200 3590
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4206
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4420
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2081
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3820
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4206
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 19914
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2081
+"GET /admin/ HTTP/1.1" 200 19914
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /admin/predictions/trainingdataset/ HTTP/1.1" 200 20164
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/auth/user/ HTTP/1.1" 200 21887
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /admin/plants/plantspecies/ HTTP/1.1" 200 20668
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11973
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/plants/plantspecies/ HTTP/1.1" 200 25286
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/apikey/ HTTP/1.1" 200 20098
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/notification/ HTTP/1.1" 200 20431
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/accounts/userprofile/ HTTP/1.1" 200 22104
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/auth/group/ HTTP/1.1" 200 18183
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/auth/user/ HTTP/1.1" 200 21887
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/plants/plantspecies/ HTTP/1.1" 200 25286
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/plants/floweringevent/ HTTP/1.1" 200 20687
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/plants/plantmonitor/ HTTP/1.1" 200 21176
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/predictions/trainingdataset/ HTTP/1.1" 200 22899
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/plants/floweringevent/ HTTP/1.1" 200 20687
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+"GET /admin/plants/plantmonitor/ HTTP/1.1" 200 21176
+"GET /admin/jsi18n/ HTTP/1.1" 200 8212
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\weather_service.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\weather_service.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\weather_service.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\weather_service.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\weather_service.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/weather/40.4168/-3.7038/ HTTP/1.1" 200 498
+"GET /admin/ HTTP/1.1" 200 19914
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /api/status/ HTTP/1.1" 200 248
+Forbidden: /api/status/
+"GET /api/status/?id=a1e6edf2-1351-48ed-a773-b1206c467b0c&vscodeBrowserReqId=1759619573426 HTTP/1.1" 403 65
+Forbidden: /api/weather/40.4168/-3.7038/flowering-analysis/
+"GET /api/weather/40.4168/-3.7038/flowering-analysis/ HTTP/1.1" 403 65
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5624
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\florawatch\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/weather/40.4168/-3.7038/flowering-analysis/ HTTP/1.1" 200 413
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2081
+"GET / HTTP/1.1" 200 2081
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\HTML CURSO\2025\FloraWatch\florewatchbackend\api_views.py changed, reloading.
+Watching for file changes with StatReloader
