@@ -1,0 +1,58 @@
+virtual_311
+florawatch.log
+# Entornos virtuales
+venv/
+env/
+ENV/
+.virtualenv/
+virtual_311/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# Archivos de configuración
+*.env
+*.local
+*.ini
+*.cfg
+*.toml
+
+# Archivos de base de datos SQLite
+db.sqlite3
+db.sqlite3-journal
+
+# Archivos de logs
+*.log
+
+# Archivos de migraciones innecesarios (opcional)
+# * puedes quitar esto si quieres versionar migraciones
+*/migrations/*.py
+!*/migrations/__init__.py
+
+# Archivos estáticos y media generados
+staticfiles/
+media/
+static/
+dist/
+build/
+
+# Archivos de IDE / editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de coverage/testing
+.coverage
+htmlcov/
+.tox/
+pytest_cache/
+
